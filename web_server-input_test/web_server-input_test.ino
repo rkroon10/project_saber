@@ -29,8 +29,8 @@ const char MAIN_page[] PROGMEM = R"=====(
 )=====";
 
 //SSID and Password of your WiFi router
-const char* ssid = "Nacho Wi-Fi";
-const char* password = "basicsocks186";
+const char* ssid = "***";
+const char* password = "***";
 
 ESP8266WebServer server(80); //Server on port 80
 
